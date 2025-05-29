@@ -46,7 +46,7 @@
 ---
 
 ### ☁️ Cloud & DevOps  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> **AWS** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonaws.svg" width="30" /> **AWS**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> **Docker** &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30"/> **Terraform** &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> **GitHub Actions** &nbsp;&nbsp;
