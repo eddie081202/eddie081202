@@ -70,5 +70,5 @@
 ### 📱 Connect with Me
 
 - 📧 Email: **eddiehuynh.dev@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/eddie](https://linkedin.com/in/eddie)
+- 💼 LinkedIn: [linkedin.com/in/eddie0812/](https://www.linkedin.com/in/eddiehuynh0812/)
 - 💻 GitHub: [github.com/eddie081202](https://github.com/eddie081202)
