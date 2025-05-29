@@ -7,6 +7,7 @@
   - ☁️ **Cloud Auto-Optimizer** – detects underutilized AWS/GCP/Azure resources to save money
   - 🧠 **Anime Recommendation System** – because taste matters, even for algorithms
 - I’m diving deeper into **AI/ML**, systems engineering, and Go-powered backends.
+- Internship/Career Experience: Operations Integration Intern @First-Solar.
 
 🌱 Outside of tech, I'm into anime, food adventures, and trying to find the best coffee shop for my sleepy head.
 
